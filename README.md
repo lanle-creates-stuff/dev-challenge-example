@@ -1,5 +1,5 @@
 # dev-challenge-example
-An example challenge using dev-challenge-server module. And a glimpse for you to see under the hood of our dev challenge on [transferwise.com](https://transferwise.com).
+An example challenge using our dev-challenge-server module. And a glimpse for you to see under the hood of our dev challenge on [transferwise.com](https://transferwise.com).
 
 ## Get started
 Just clone the repo locally, go to the folder and run 
