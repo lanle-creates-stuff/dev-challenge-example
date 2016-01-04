@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "dev-challenge-server": "git+https://github.com/transferwise/dev-challenge-server.git",
-    "express": "^4.13.3"
+    "dev-challenge-server": "https://github.com/transferwise/dev-challenge-server.git#v1.1.0",
+    "express": "~4.13.3"
   },
   "repository": {
     "type": "git",
