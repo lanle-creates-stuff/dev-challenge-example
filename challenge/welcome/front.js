@@ -1,4 +1,4 @@
-define(
+devDefine(
     [],
     function() {
         return {

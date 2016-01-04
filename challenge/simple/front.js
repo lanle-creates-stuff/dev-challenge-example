@@ -1,4 +1,4 @@
-define(
+devDefine(
     ['challenge/simple/data'],
     function(data) {
         return {
