@@ -1,5 +1,5 @@
 {
-  "name": "dev-challenge-example",
+  "name": "gtkm-challenge",
   "version": "1.0.0",
   "description": "An example challenge using our dev-challenge-server",
   "main": "app.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/transferwise/dev-challenge-example.git"
+    "url": "git+https://github.com/lanle-creates-stuff/gtkmChallenge.git"
   },
-  "author": "matyas@transferwise",
+  "author": "BAW",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/transferwise/dev-challenge-example/issues"
+    "url": "https://github.com/lanle-creates-stuff/gtkmChallenge.git"
   },
-  "homepage": "https://github.com/transferwise/dev-challenge-example#readme"
+  "homepage": "http://www.lanlecreates.co.uk"
 }

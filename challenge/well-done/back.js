@@ -1,5 +1,5 @@
 module.exports = {
-    keyWord : 'a-true-wiser',
+    keyWord : 'adventure-time',
     check : function(answer, data, req) {
 
         if(data && data.saved) {

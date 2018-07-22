@@ -2,9 +2,23 @@ module.exports = {
     tasks : [
         'welcome', // default welcome message
 
-        'simple',
+        'question1',
 
-        'well-done' // say thanks an' all
+        'question2',
+
+        'question3',
+
+        'question4',
+
+        'question5',
+
+        'question6',
+
+        // 'question7',
+
+        'well-done'
+        // 'simple',
+
     ],
     taskRoot : __dirname + '/challenge/',
     withSession : true

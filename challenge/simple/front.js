@@ -4,7 +4,7 @@ devDefine(
         return {
             message : "Okay, now sort DevChallenge.data case insensitive and put it to DevChallenge.answer",
             onLoad : function() {
-                DevChallenge.data = data.list;
+                gtkmChallenge.data = data.list;
                 DevCli.params = data;
             }
         };
