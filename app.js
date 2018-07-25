@@ -10,7 +10,7 @@ var app = challengeServer.spinUp(config);
 app.use('/' , express.static(__dirname + '/public/'));
 
 // server
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 'https://immense-eyrie-85471.herokuapp.com/';
 app.set('port', port);
 app.listen(port, function () {
   console.log('***** app listening on port: ' + port);
