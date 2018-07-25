@@ -3,7 +3,7 @@ var config = require('./config');
 var express = require('express');
 
 // challenge server
-var challengeServer = require('dev-challenge-server');
+var challengeServer = require('./devChallenge');
 var app = challengeServer.spinUp(config);
 
 // serve static files

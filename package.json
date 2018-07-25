@@ -1,5 +1,5 @@
 {
-  "name": "gtkm-challenge",
+  "name": "dev-challenge-example",
   "version": "1.0.0",
   "description": "An example challenge using our dev-challenge-server",
   "main": "app.js",
@@ -7,16 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "dev-challenge-server": "https://github.com/lanle-creates-stuff/dev-challenge-server.git#v1.1.0",
     "express": "~4.13.3"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lanle-creates-stuff/gtkmChallenge.git"
+    "url": "git+https://github.com/lanle-creates-stuff/dev-challenge-example.git"
   },
-  "author": "BAW",
+  "author": "matyas@transferwise",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lanle-creates-stuff/gtkmChallenge.git"
+    "url": "https://github.com/lanle-creates-stuff/dev-challenge-example/issues"
   },
-  "homepage": "http://www.lanlecreates.co.uk"
+  "homepage": "https://github.com/lanle-creates-stuff/dev-challenge-example#readme"
 }
